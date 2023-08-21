@@ -14,4 +14,5 @@
 ## Документы
 
 * [Сертификат об окончании курса "Разработчик игр на Unity"](https://drive.google.com/file/d/1BIyGRJ-MZgxF6A4XpxiMy0Gf4zWpZtbg/view?usp=sharing).
-* [Рекомендация](https://drive.google.com/file/d/1-uyimJbN9fskDnil67DPn2cbHJX4c5JA/view?usp=sharing).
+* [Рекомендация от RadianceStar](https://drive.google.com/file/d/1-uyimJbN9fskDnil67DPn2cbHJX4c5JA/view?usp=sharing).
+* [Рекомендация от ARLIB](https://drive.google.com/file/d/1fWcJyz-avTVpIcTWbUZlaTrjDW61pguP/view?usp=sharing).
