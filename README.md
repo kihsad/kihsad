@@ -10,7 +10,7 @@ My name is Daria, I'm a technical game designer on Unity, also have mostly learn
 * Partial establishment, project support until release. [Wilde Investigations: Animal Sanctuary Shuffle](https://www.bigfishgames.com/us/en/games/16285/wilde-investigations-sanctuary-ce/?pc&lang=en).
 * Making Bonus Content. [Knight Cats: Waves on the Water](https://www.bigfishgames.com/us/en/games/18754/knight-cats-waves-on-the-water-ce/?pc&lang=en).
 
-## Мои учебные проекты в качестве разработчика:
+## My training projects as a developer:
 
 * 2D-prototyping. Interface creation. [Platformer-2D](https://github.com/kihsad/Platformer-2D.git), [Tanks-2D](https://github.com/kihsad/Tanks-2D.git).
 * 3D Prototyping. Prototyping AI opponents and creating NPCs. [RPG](https://github.com/kihsad/RPG.git), [Ziggurat](https://github.com/kihsad/Ziggurat.git).
@@ -19,7 +19,7 @@ My name is Daria, I'm a technical game designer on Unity, also have mostly learn
 * C# Programming. [Checkers](https://github.com/kihsad/Checkers.git), [CardGame](https://github.com/kihsad/CardGame.git).
 * Customizing object interactions in Unity. [RPG](https://github.com/kihsad/RPG.git), [Arkanoid](https://github.com/kihsad/Arkanoid.git).
 
-## Документы
+## Documents:
 
 * [Certificate of completion of the course “Unity Game Developer”](https://drive.google.com/file/d/1BIyGRJ-MZgxF6A4XpxiMy0Gf4zWpZtbg/view?usp=sharing).
 * [Recommendation from RadianceStar](https://drive.google.com/file/d/1-uyimJbN9fskDnil67DPn2cbHJX4c5JA/view?usp=sharing).
