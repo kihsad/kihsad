@@ -8,6 +8,7 @@ My name is Daria, I'm a technical game designer on Unity, also have mostly learn
 * Partial introduction, project support, 2D animation creation. [Strange Investigations: Truth Will Out](https://www.bigfishgames.com/us/en/games/18867/strange-investigations-truth-will-out-ce/?pc&lang=en).
 * Complete introduction and support of the project through to release. [Knight Cats: Whisper of the Universe](https://www.bigfishgames.com/us/en/games/18820/knight-cats-whisper-of-the-universe/?pc&lang=en).
 * Partial establishment, project support until release. [Wilde Investigations: Animal Sanctuary Shuffle](https://www.bigfishgames.com/us/en/games/16285/wilde-investigations-sanctuary-ce/?pc&lang=en).
+* Pre-release support, bug fixing. [Ms. Holmes: The Death of Peter Blackheart](https://www.bigfishgames.com/us/en/games/17201/ms-holmes-the-death-of-peter-blackheart-ce/?pc&lang=en).
 * Making Bonus Content. [Knight Cats: Waves on the Water](https://www.bigfishgames.com/us/en/games/18754/knight-cats-waves-on-the-water-ce/?pc&lang=en).
 
 ## My training projects as a developer:
