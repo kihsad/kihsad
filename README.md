@@ -25,6 +25,7 @@ Customizing object interactions in Unity.
 
 ## Documents:
 
+* [Bachelor's degree](https://drive.google.com/file/d/1otWgYkSKvdPlWxG_RPi6o_eeFQ-MKVKC/view?usp=sharing).
 * [Diploma of professional retraining as an Unity game developer](https://drive.google.com/file/d/11oLhkQ7Prp7slP7_WNVogWKkFAp3gYbt/view?usp=drive_link).
 * [Recommendation from RadianceStar](https://drive.google.com/file/d/1-uyimJbN9fskDnil67DPn2cbHJX4c5JA/view?usp=sharing).
 * [Recommendation from ARLIB](https://drive.google.com/file/d/1fWcJyz-avTVpIcTWbUZlaTrjDW61pguP/view?usp=sharing).
